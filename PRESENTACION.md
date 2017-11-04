@@ -30,6 +30,7 @@ Graphics
 ![Chaos](http://78.media.tumblr.com/984efb4286ff123ddfe305ab400e6760/tumblr_inline_orfrd9b4p11rap5qi_500.jpg)
 
 CC: By CHAOS/DONFORTY
+
 Fanzine about chaos, they use illustrations, engravings and serigraphy. 
 
 ---
@@ -45,6 +46,7 @@ Be self critique
 
 ![SoniAnarchy](http://fondo.fanzinoteca.net/img/covers/full/1194.jpg)
 CC: By Dinamo DIY Espai
+
 Is about searching the electric anarchy; hardware hacking, sound, circuit-bending, etc. 
 
 ---
@@ -55,7 +57,9 @@ Write down the principle idea and what you want to said.
 Short sentences or paragraphs.
 
 Use graphics to said things. 
+
 ---
+
 ## 4. Choose the format 
 
 ![Formato 2](https://3.bp.blogspot.com/-ascgPUYmOPM/WMUUpPObIdI/AAAAAAAAAso/TlpuHzC0L5UAuuFORd3Zk1uJ1hZZ_Qr1QCLcB/s1600/hacer%2Bfanzine%2B2.jpg)
@@ -64,7 +68,8 @@ But you should experiment and use your imagination for the format
 ---
 ## 5. Distribution
 
-### ALWAYS USE COPYLEFT OR CREATIVE COMMONS
+ALWAYS USE COPYLEFT OR CREATIVE COMMONS
+
 ![Formato 2](http://tusderechoscaav.weebly.com/uploads/4/1/5/4/41540467/8887570.png?250) ![Formato 2](https://img.gadgethacks.com/img/89/05/63481765268007/0/your-guide-finding-free-creative-commons-images-and-other-media-online.1280x600.jpg)
 
 
