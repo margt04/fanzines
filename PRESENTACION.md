@@ -1,5 +1,6 @@
-# FANZINE
-![Fanzines](http://2.bp.blogspot.com/-aAKsIQfchFU/Uzk1aLDYEPI/AAAAAAAAGdA/DF5uJ_I_XT4/s1600/ilegalyque_2_web.jpg)
+
+
+![Imgur](https://i.imgur.com/wHLkh9g.png)
 
 ---
 ## How to do it?
