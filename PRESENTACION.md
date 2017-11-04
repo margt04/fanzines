@@ -1,5 +1,5 @@
 # FANZINE
-![Fanzines](https://i.imgur.com/KAhH45a.jpg)
+![Fanzines](http://2.bp.blogspot.com/-aAKsIQfchFU/Uzk1aLDYEPI/AAAAAAAAGdA/DF5uJ_I_XT4/s1600/ilegalyque_2_web.jpg)
 
 ---
 ## How to do it?
@@ -11,11 +11,9 @@
 
 ---
 
-### Buuuuttt.....
+### Buuuuttt.....if you need a first kick to start
 
-### if you need a first kick to start
-
-Lets see some tips
+      Lets see some tips
 
 ---
 
@@ -26,6 +24,8 @@ Something Seroius
 A story
 
 Graphics
+
+---
 
 ![Chaos](http://78.media.tumblr.com/984efb4286ff123ddfe305ab400e6760/tumblr_inline_orfrd9b4p11rap5qi_500.jpg)
 
@@ -40,6 +40,8 @@ Why?
 It's what you want to communicate?
 
 Be self critique
+
+---
 
 ![SoniAnarchy](http://fondo.fanzinoteca.net/img/covers/full/1194.jpg)
 CC: By Dinamo DIY Espai
