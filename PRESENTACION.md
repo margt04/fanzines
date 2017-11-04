@@ -65,10 +65,12 @@ Use graphics to said things.
 ![Formato 2](https://3.bp.blogspot.com/-ascgPUYmOPM/WMUUpPObIdI/AAAAAAAAAso/TlpuHzC0L5UAuuFORd3Zk1uJ1hZZ_Qr1QCLcB/s1600/hacer%2Bfanzine%2B2.jpg)
 
 But you should experiment and use your imagination for the format
+
 ---
+
 ## 5. Distribution
 
-ALWAYS USE COPYLEFT OR CREATIVE COMMONS
+USE *COPYLEFT* OR *CREATIVE COMMONS*
 
 ![Formato 2](http://tusderechoscaav.weebly.com/uploads/4/1/5/4/41540467/8887570.png?250) ![Formato 2](https://img.gadgethacks.com/img/89/05/63481765268007/0/your-guide-finding-free-creative-commons-images-and-other-media-online.1280x600.jpg)
 
