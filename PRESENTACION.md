@@ -63,8 +63,8 @@ Use graphics to said things.
 ## 5. Distribution
 
 ### ALWAYS USE COPYLEFT OR CREATIVE COMMONS
-![Formato 2](https://www.google.com.gt/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi8t4Wd4aPXAhXE1CYKHeP0DKQQjRwIBw&url=http%3A%2F%2Fesdgalbertoguerrero.blogspot.com%2F2015%2F10%2F14-el-software-libre.html&psig=AOvVaw3Bgml7ggejfpWUwxkUeKA-&ust=1509845036190656)
+![Formato 2](http://tusderechoscaav.weebly.com/uploads/4/1/5/4/41540467/8887570.png?250)
 
-![Formato 2](https://www.google.com.gt/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjC-e-w4aPXAhWKwiYKHYABB-0QjRwIBw&url=https%3A%2F%2Fdigiwonk.gadgethacks.com%2Fhow-to%2Fyour-guide-finding-free-creative-commons-images-and-other-media-online-0138907%2F&psig=AOvVaw2Lfro6ElnJzeJ8ZOmfdL8a&ust=1509845080319058)
+![Formato 2](https://img.gadgethacks.com/img/89/05/63481765268007/0/your-guide-finding-free-creative-commons-images-and-other-media-online.1280x600.jpg)
 
 
